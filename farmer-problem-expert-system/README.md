@@ -1,4 +1,4 @@
-Farmer Problem using an expery system - displays a solution to the farmer problem, including a proof of the solution details, using an expert system approach.
+Farmer Problem using an expert system - displays a solution to the farmer problem, including a proof of the solution details, using an expert system approach.
 
 Description of the Farmer Problem:
 
