@@ -1,4 +1,4 @@
-Program that computes the factorial of a given integer N.
+Factorial Program - computes the factorial of a given integer N.
 
 Usage Instructions (examples use SWI-Prolog):
 
