@@ -4,7 +4,7 @@ Usage Instructions (examples use SWI-Prolog):
 
 1. Start Prolog in the directory in which the program resides.
 2. At the prompt, enter 'start.':
-?- start.
+- ?- start.
 3. Enter the graph used to search for an acyclic path, as prompted by the program (formatting necessary):
 - Please enter the graph yoiu would like searched: graph([a,b,c,d],  [c(a,b),c(b,c),c(b,d),c(c,d),c(d,b)]).
 4. Enter the path start node, as prompted by the program:
