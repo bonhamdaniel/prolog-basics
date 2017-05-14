@@ -10,4 +10,4 @@ The repository includes the following solutions:
 5. word-syllables: wordsyllables.pl and README.md - accepts a word from the user, then divides that word into syllables based on two specified rules and displays the result.
 6. farmer-problem-breadth-first: fgwc-breadth-first.pl and README.md - displays a solution to the farmer problem, including search strategy details, using a breadth-first search approach.
 7. farmer-problem-depth-first: fgwc-depth-first.pl and README.md - displays a solution to the farmer problem, including search strategy details, using a depth-first search approach.
-expert system - 
+8. farmer-problem-expert-system: exshell.pl, knowledgebase.pl, and README.md - displays a solution to the farmer problem, including a proof of the solution details, using an expert system approach.
