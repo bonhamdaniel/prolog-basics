@@ -1,4 +1,4 @@
-List Program - accepts a single integer x and a list of integers L from the user, then displays all the positions in L that x resides.
+List Program - accepts a single integer x and a list of integers L from the user, then displays all the positions in L where x resides.
 
 Usage Instructions (examples use SWI-Prolog):
 
