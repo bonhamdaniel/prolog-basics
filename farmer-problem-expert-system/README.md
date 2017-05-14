@@ -9,7 +9,8 @@ Description of the Farmer Problem:
 - The initial state of the system can be represented by (e, e, e, e), where all subjects are on the east side.
 - The goal state of the system can be represented by (w, w, w, w), where all subjects have been moved to the west side.
 - Other intermediate states will be represented using combinations of these positions (e,w).
-- Usage Instructions (examples use SWI-Prolog):
+
+Usage Instructions (examples use SWI-Prolog):
 
 1. Start exshell.pl Prolog file from the directory in which it resides.
 2. At the prompt, enter 'run.':
