@@ -11,7 +11,8 @@ Details of the directed, hard-coded graph (start node, end node, cost):
 Usage Instructions (examples use SWI-Prolog):
 
 1. Start Prolog in the directory in which the program resides.
-2. At the prompt, enter 'start.': ?- start.
+2. At the prompt, enter 'start.':
+- ?- start.
 3. Enter the path start node, as prompted by the program:
 - Please enter the start node for the desired path: a.
 4. Enter the path end node, as prompted by the program:
