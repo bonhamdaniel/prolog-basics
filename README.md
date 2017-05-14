@@ -9,5 +9,5 @@ The repository includes the following solutions:
 4. minimum-path: minimumpath.pl and README.md - accepts a start node, and an end node from the user, then displays the minimum-cost path found given these parameters and a graph hard-coded into the program.
 5. word-syllables: wordsyllables.pl and README.md - accepts a word from the user, then divides that word into syllables based on two specified rules and displays the result.
 6. farmer-problem-breadth-first: fgwc-breadth-first.pl and README.md - displays a solution to the farmer problem, including search strategy details, using a breadth-first search approach.
-fgwc-depth-first -
+7. farmer-problem-depth-first: fgwc-depth-first.pl and README.md - displays a solution to the farmer problem, including search strategy details, using a depth-first search approach.
 expert system - 
