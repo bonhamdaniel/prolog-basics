@@ -2,11 +2,11 @@ Minimum Path Program - accepts a start node, and an end node from the user, then
 
 Details of the directed, hard-coded graph (start node, end node, cost):
 
-edge(a, b, 3).
-edge(b, c, 1).
-edge(b, d, 5).
-edge(c, d, 2).
-edge(d, b, 2).
+- edge(a, b, 3).
+- edge(b, c, 1).
+- edge(b, d, 5).
+- edge(c, d, 2).
+- edge(d, b, 2).
 
 Usage Instructions (examples use SWI-Prolog):
 
